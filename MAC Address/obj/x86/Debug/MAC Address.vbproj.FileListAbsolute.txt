@@ -1,0 +1,22 @@
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\bin\Debug\MAC Address.exe
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\bin\Debug\MAC Address.pdb
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\bin\Debug\MAC Address.xml
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\MAC_Address.Form1.resources
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\MAC_Address.Resources.resources
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\MAC Address.exe
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\MAC Address.xml
+C:\Users\amm0nium\AppData\Local\Temporary Projects\MAC Address\obj\x86\Debug\MAC Address.pdb
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\MAC Address.exe
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\MAC Address.xml
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\MAC Address.pdb
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\bin\Debug\MAC Address.exe
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\bin\Debug\MAC Address.pdb
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\bin\Debug\MAC Address.xml
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\MAC_Address.Form1.resources
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\MAC_Address.Resources.resources
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amm0nium\documents\visual studio 2010\Projects\MAC Address\MAC Address\obj\x86\Debug\GenerateResource.write.1.tlog
